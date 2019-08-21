@@ -1,0 +1,11 @@
+/target/
+.project
+.idea
+.settings
+.classpath
+*.iml
+/qc-parent/target
+
+.metadata
+.recommenders
+*.log
